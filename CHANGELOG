@@ -1,3 +1,7 @@
+v0.3.0:
+  date: 2014-10-21
+  changes:
+    - fix resources path to be relative to discoveryUrl
 v0.2.0:
   date: 2013-03-16
   changes:
