@@ -1,3 +1,7 @@
+v0.3.1
+  date: 2014-10-22
+  changes:
+    - fixing basePath not resolved correctly
 v0.3.0:
   date: 2014-10-21
   changes:
